@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning Programming
+- 💬 Ask me about studying in ITMO
+- 📫 How to reach me: 413825@niuitmo.ru
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i am a hawk :)
 <!--
 **yastreb68/yastreb68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
